@@ -25,7 +25,6 @@ OPENAI_API_KEY=<your_api_key>
 ~~~
 
 ## Usage
-
 ### Run the application:
 - Run the application by executing the following command in the project directory:
 ```
@@ -37,12 +36,10 @@ uvicorn main:app --reload
 - If you encounter any errors or issues, please try again or seek assistance from a mental health professional.
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-
-- This project utilizes the Langchain library, OpenAI's GPT-3 language model and FastApi Web Framework.
+This project utilizes the Langchain library, OpenAI's GPT-3 language model and FastApi Web Framework.
 
 ## Important Note
 Please ensure that you have a valid OpenAI API key to use the chatbot. If you don't have one, sign up for an API key at the OpenAI website before running the chatbot.
